@@ -1,0 +1,65 @@
+.container{
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+.card{
+    margin-top: 20px;
+    
+}
+
+
+.card-body{
+    text-align:center;
+}
+
+header{
+    background-color: #ffffff;
+}
+.nav{
+    list-style: none;
+    padding: 20px 10px;
+    width: 100%;
+    max-width: 1000px;margin: auto;
+    background-color: #ffffff;
+    
+}
+.nav li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+.nav li{
+    display: inline-block;
+    text-align: center;
+}
+.nav li a:hover{
+    background-color:#3DFE8A ;
+}
+a{
+    font-size: 20px;
+}
+
+
+
+
+
+.imgnav{
+    position: absolute;
+    width: 50px;
+    height: 100px;
+    left: 200px;
+    top: 15px;
+    
+}
+
+
+.titul3{
+    margin-top: 20px;
+}

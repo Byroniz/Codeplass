@@ -1,0 +1,100 @@
+body{
+background:url(img/fondo.jpg) ;
+background-size: 100vw 100vh;
+background-attachment: fixed;
+margin: 0;
+}
+
+
+
+
+
+.container{
+    margin-top: 40px;
+}
+form{
+    width: 500px;
+    margin: auto;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+
+.titul{
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+.preguntas, h3{
+text-align: center;
+margin: 7px 7px;
+margin-top: 10px;
+
+} 
+
+input, textarea, button{
+ width: 50%;
+ margin-bottom: 20px;
+ padding: 6px;
+ box-sizing: border-box;
+ margin: 20px;
+}
+
+textarea{
+    min-height: 100px;
+    max-height: 100px;
+    max-width: 100%;
+}
+
+.atencion{
+    text-align: center;
+    margin: 7px 7px;
+    margin-top: 10px;
+}
+
+header{
+    background-color: #ffffff;
+}
+.nav{
+    list-style: none;
+    padding: 20px 10px;
+    width: 100%;
+    max-width: 1000px;margin: auto;
+    background-color: #ffffff;
+    
+}
+.nav li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+.nav li{
+    display: inline-block;
+    text-align: center;
+}
+.nav li a:hover{
+    background-color:#3DFE8A ;
+}
+a{
+    font-size: 20px;
+}
+
+
+.infoimg{
+    float: right;
+}
+
+
+
+.imgnav{
+    position: absolute;
+    width: 50px;
+    height: 100px;
+    left: 200px;
+    top: 15px;
+    
+}
+
+
